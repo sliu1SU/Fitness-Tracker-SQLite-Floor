@@ -1,0 +1,121 @@
+{
+  "helloWorld": "Hello World!",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+
+  "appBarTitle": "Homework 4 Demo",
+  "@appBarTitle": {
+    "description": "the title on the app bar"
+  },
+
+  "emotion": "Emotion",
+  "@emotion": {
+    "description": "text of emotion for bottom nav bar"
+  },
+
+  "diet": "Diet",
+  "@diet": {
+    "description": "text of diet for bottom nav bar"
+  },
+
+  "workout": "Workout",
+  "@workout": {
+    "description": "text of workout for bottom nav bar"
+  },
+
+  "point": "Point",
+  "@point": {
+    "description": "text of point for display_point_info widget"
+  },
+
+  "level": "Level",
+  "@level": {
+    "description": "text of level for display_point_info widget"
+  },
+
+  "type": "Type",
+  "@type": {
+    "description": "text of type for display_point_info widget"
+  },
+
+  "date": "Date",
+  "@date": {
+    "description": "text of date for display_point_info widget"
+  },
+
+  "save": "Save",
+  "@save": {
+    "description": "text for 'save' button"
+  },
+
+  "submit": "Submit",
+  "@submit": {
+    "description": "text for 'submit' button"
+  },
+
+  "errorMsgFetching": "An error occurred trying to load your data and we have no idea what to do about it. Sorry.",
+  "@errorFetching": {
+    "description": "error text for fetching date from db"
+  },
+
+  "selectAnEmoji": "Select an emoji",
+  "@selectAnEmoji": {
+    "description": "title of emoji dropdown selection"
+  },
+
+  "selectAValue": "- select a value -",
+  "@selectAValue": {
+    "description": "hint text of dropdown selection"
+  },
+
+  "errorMsgDropdown": "You must select a value from the list!",
+  "@errorMsgDropdown": {
+    "description": "error text of dropdown"
+  },
+
+  "enterADiet": "Enter a Diet",
+  "@enterADiet": {
+    "description": "title text of diet text input"
+  },
+
+  "dietHintTextDiet": "Enter a food here...",
+  "@dietHintTextDiet": {
+    "description": "hint text of diet text input"
+  },
+
+  "unit": "Unit",
+  "@unit": {
+    "description": "unit/quantity"
+  },
+
+  "dietHintTextUnit": "Enter an unit in integer...",
+  "@dietHintTextUnit": {
+    "description": "hint text of diet text input for unit"
+  },
+
+  "previousDiets": "Previous Diets",
+  "@PreviousDiets": {
+    "description": "title text of diet dropdown"
+  },
+
+  "errorMsgDietTextInput": "You must enter a diet OR select a diet from \"Previous Diets\"!",
+  "@errorMsgDietTextInput": {
+    "description": "error msg of diet text input"
+  },
+
+  "errorMsgDietDropdown": "You must select a diet OR enter a diet in \"Enter a Diet\"!",
+  "@errorMsgDietDropdown": {
+    "description": "error msg of diet dropdown"
+  },
+
+  "errorMsgDietUnitInput": "Unit must not be blank!",
+  "@errorMsgDietUnitInput": {
+    "description": "error msg of unit input"
+  },
+
+  "exercise": "Select an Exercise",
+  "@exercise": {
+    "description": "title text of workout name input"
+  }
+}
